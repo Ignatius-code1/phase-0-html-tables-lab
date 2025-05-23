@@ -130,6 +130,9 @@ entire table would look like the following:
     <th>Phone Number</th>
     <th>Bringing</th>
   </tr>
+  <th></th
+  <th></th
+  <th></th>
   <tr>
     <td>Daniel</td>
     <td>718-555-1212</td>
